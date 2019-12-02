@@ -22,7 +22,7 @@ $ npm -v
 3.5.1
 ```
 
-## upgrage npm
+## upgrade npm
 
 ```bash
 $ sudo npm install -g npm 
