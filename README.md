@@ -48,16 +48,22 @@ $ sudo npm install -g npm
 
 # moved stable npm
 $ nano .bashrc
+```
 
+edit end to `.bashrc`
+```.bashrc
+...
 - alias npm=/usr/bin/npm
 + alias npm=/usr/local/bin/npm
+```
 
+```bash
 $ source .bashrc 
 $ npm -v
 6.13.1
 $ which npm
 /usr/local/bin/npm
-'''
+```
 
 OK!
 
