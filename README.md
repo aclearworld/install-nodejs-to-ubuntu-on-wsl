@@ -27,11 +27,9 @@ $ npm -v
 ```bash
 $ sudo npm install -g npm 
 NPM ERR!
-'''
 
-why?
+# why?
 
-```bash
 $ which npm
 /mnt/c/Program Files/nodejs/npm
 ```
