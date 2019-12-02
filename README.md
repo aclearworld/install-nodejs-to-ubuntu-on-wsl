@@ -36,7 +36,7 @@ $ which npm
 /mnt/c/Program Files/nodejs/npm
 ```
 
-Oh! `coomand npm` is points to npm installed on windows 
+Oh! `command npm` is points to npm installed on windows 
 
 ```bash
 $ cd ~
